@@ -28,7 +28,7 @@ st.divider()
 st.subheader("Kevin Benitez")
 st.write("**Carrera:** Ingeniería en sistemas y computación")
 st.write("**Proyectos:**")
-st.markdown("- [Aplicación de Tareas con Django](https://github.com/carlosruiz/tareas)")
+st.markdown("- [Juego de adivinar](https://adivina-el-clima-ae4qyah2psguwwqp2nazvr.streamlit.app/)")
 
 st.divider()
 
