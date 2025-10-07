@@ -11,7 +11,7 @@ st.write("Presentamos a nuestro equipo de desarrolladores:")
 st.subheader("Daniel Alvarez")
 st.write("**Carrera:** Ingeniería en sistemas y computación")
 st.write("**Proyectos:**")
-st.markdown("- [Quiz Game](https://github.com/analopez/inventario)")
+st.markdown("- [Quiz Game](https://calculardistancia-da.streamlit.app/")
 
 st.divider()
 
